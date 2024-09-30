@@ -1,0 +1,25 @@
+#Product=Inkways.Extensions.Camera
+#Name=English (United States)
+#LangVersion=1
+#AppVersion=null
+#Culture="en-us"
+#Author="NotYoojun"
+#AuthorContact="yoojun@inkore.net"
+
+M_FUNCTIONTYPE_ONETIME="One-time"
+M_FUNCTIONTYPE_QUADRATIC="Quadratic"
+M_FUNCTIONTYPE_INVERSEPROPORTIONAL="Inverse Proportional"
+M_FUNCTIONTYPE_EXPONENTIAL="Exponential"
+M_FUNCTIONTYPE_LOGARITHMIC="Logarithmic"
+M_FUNCTIONTYPE_POWER="Power"
+M_FUNCTIONTYPE_FIRSTDERIVATIVE="First Derivative"
+M_FUNCTIONTYPE_SECONDDERIVATIVE="Second Derivative"
+M_FUNCTIONTYPE_THIRDDERIVATIVE=="Third Derivative"
+
+M_CUSTOMIZE="Customize"
+M_FUNCTION="Function"
+M_REMOVE="Remove"
+M_NEWFUNCTION="New Function"
+M_EDITFUNCTIONGRAPH="Edit function graph"
+M_HELP="Help"
+S_FUNCTIONGRAPHINPUTHELP="In the list of function inputs on the left, click the 'Add' button to add a new function, and each function can set the curve color, function type, and function expression separately. When you're done typing, lose focus or press Enter to refresh the image. The mouse wheel can zoom in and out of the image. When entering an expression, you can use the following symbols:\r\n\r\n　　+　　-　　*　　/　　^　　( )　　[ ]　　{ }\r\n　　abs　　acos/arccos　　asin/arcsin　　atan/arctan　　cos\r\n　　cosh　　cot　　csc　　lg　　ln　　sec　　sin　　sinh\r\n　　sqrt　　tan　　tanh"

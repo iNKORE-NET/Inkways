@@ -1,0 +1,27 @@
+#Product=Inkways.Extensions.Standard
+#Name=English (United States)
+#LangVersion=1
+#AppVersion=null
+#Culture="en-us"
+#Author="NotYoojun"
+#AuthorContact="yoojun@inkore.net"
+
+M_TEXT="Text"
+M_BOLD="Bold"
+M_ITALIC="Italic"
+M_UNDERLINE="Underline"
+M_TEXTCOLOR="Text Color"
+M_COUNTDOWN="Countdown"
+M_RESET="Reset"
+M_STARTSLASHPAUSE="Start/Pause"
+M_DONE="Done"
+M_CALCULATOR="Calculator"
+M_STOPWATCH="Stopwatch"
+M_START="Start"
+M_STOP="Stop"
+M_CLEAR="Clear"
+M_LAP="Lap"
+M_LAPSHARP="Lap #"
+M_TIME="Time"
+
+M_IMAGE="Image"
